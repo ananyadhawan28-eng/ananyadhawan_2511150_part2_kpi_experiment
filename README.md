@@ -165,32 +165,5 @@ Full reasoning: `outputs/recommendation_memo.md`
 
 ---
 
-## File Structure
 
-```
-project/
-├── data/
-│   └── campaign_experiment_data.xlsx      
-├── analysis/
-│   ├── experiment_analysis.xlsx            
-│   └── hypothesis_test_notes.md           
-├── outputs/
-│   ├── experiment_summary.xlsx           
-│   ├── recommendation_memo.md             
-│   └── kpi_tree.png                       
-├── screenshots/
-│   ├── summary_metrics.png                
-│   ├── hypothesis_test_output.png         
-│   └── kpi_tree_preview.png              
-└── README.md                            
-```
 
----
-
-## Screenshots
-
-| Screenshot | Contents |
-|-----------|---------|
-| `screenshots/summary_metrics.png` | Full Control vs Treatment metric comparison table |
-| `screenshots/hypothesis_test_output.png` | Z-test distribution plot and results summary |
-| `screenshots/kpi_tree_preview.png` | KPI tree showing North Star → Drivers → Sub-Drivers → Guardrails |

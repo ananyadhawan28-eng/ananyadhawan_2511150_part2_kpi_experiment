@@ -164,6 +164,12 @@ Full reasoning: `outputs/recommendation_memo.md`
 7. Chi-square tests for segment-level statistical significance were not performed due to small sub-group sizes
 
 ---
+## Screenshots
 
+| Screenshot | Contents |
+|-----------|---------|
+| `screenshots/summary_metrics.png` | Full Control vs Treatment metric comparison table |
+| `screenshots/hypothesis_test_output.png` | Z-test distribution plot and results summary |
+| `screenshots/kpi_tree_preview.png` | KPI tree showing North Star → Drivers → Sub-Drivers → Guardrails |
 
-
+---

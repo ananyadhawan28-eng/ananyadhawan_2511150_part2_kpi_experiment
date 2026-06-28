@@ -170,19 +170,19 @@ Full reasoning: `outputs/recommendation_memo.md`
 ```
 project/
 ├── data/
-│   └── campaign_experiment_data.xlsx       # Original dataset
+│   └── campaign_experiment_data.xlsx      
 ├── analysis/
-│   ├── experiment_analysis.xlsx            # Cleaned data + quality log
-│   └── hypothesis_test_notes.md           # Full hypothesis test documentation
+│   ├── experiment_analysis.xlsx            
+│   └── hypothesis_test_notes.md           
 ├── outputs/
-│   ├── experiment_summary.xlsx            # Metric summary + segment breakdowns
-│   ├── recommendation_memo.md             # Executive recommendation memo
-│   └── kpi_tree.png                       # KPI tree visual
+│   ├── experiment_summary.xlsx           
+│   ├── recommendation_memo.md             
+│   └── kpi_tree.png                       
 ├── screenshots/
-│   ├── summary_metrics.png                # Control vs Treatment summary table
-│   ├── hypothesis_test_output.png         # Statistical test evidence
-│   └── kpi_tree_preview.png              # KPI tree preview image
-└── README.md                             # This file
+│   ├── summary_metrics.png                
+│   ├── hypothesis_test_output.png         
+│   └── kpi_tree_preview.png              
+└── README.md                            
 ```
 
 ---
